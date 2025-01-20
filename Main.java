@@ -32,7 +32,7 @@ public class Main {
 
     // Placeholder for Person 5
     public static void featureByGrace() {
-        System.out.println("Feature by Person 5: [Add your feature here]");
+        System.out.println("hello world");
     }
 
     // Placeholder for Person 6
