@@ -55,12 +55,11 @@ Repository ini dibuat sebagai latihan untuk memahami penggunaan Git dan GitHub. 
 - [GitHub Docs](https://docs.github.com/)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-## 📧 Kontak
-Jika Anda memiliki pertanyaan, silakan hubungi saya di:
-- **Email:** emailanda@example.com
-- **GitHub:** [username](https://github.com/username)
-
----
-
-Selamat belajar dan semoga berhasil! 🎉
+## 📧 Nama dan Username
+- Angga Theo Kekuatanta Pasaribu :
+- Jennifer Christabelle :
+- Grace Patricia Ananta :
+- Gebrina Augustine Padatu :
+- Rafelixa Reynard Isak :
+- Teofilus Satria Rada Insani : pejuangvscode
 
