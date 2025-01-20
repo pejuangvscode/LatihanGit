@@ -59,7 +59,7 @@ Repository ini dibuat sebagai latihan untuk memahami penggunaan Git dan GitHub. 
 - Angga Theo Kekuatanta Pasaribu :
 - Jennifer Christabelle :
 - Grace Patricia Ananta :
-- Gebrina Augustine Padatu :
+- Gebrina Augustine Padatu : ayamkecappp
 - Rafelixa Reynard Isak :
 - Teofilus Satria Rada Insani : pejuangvscode
 
