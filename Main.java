@@ -34,7 +34,12 @@ public class Main {
 
     // Placeholder for Person 3
     public static void featureByAngga() {
-        System.out.println("Feature by Person 3: [Add your feature here]");
+        System.out.println("Feature by Angga : Perkalian");
+         int num1 = 5;
+        int num2 = 7;
+        
+        System.out.println("5x7 = " + num1 * num2);
+    }
     }   
 
     // Placeholder for Person 4
