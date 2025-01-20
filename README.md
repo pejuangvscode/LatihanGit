@@ -56,10 +56,10 @@ Repository ini dibuat sebagai latihan untuk memahami penggunaan Git dan GitHub. 
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## 📧 Nama dan Username
-- Angga Theo Kekuatanta Pasaribu : AnggaTheo123
+- Angga Theo Kekuatanta Pasaribu :
 - Jennifer Christabelle :
-- Grace Patricia Ananta :
-- Gebrina Augustine Padatu : ayamkecappp
+- Grace Patricia Ananta : gggrc
+- Gebrina Augustine Padatu :
 - Rafelixa Reynard Isak :
 - Teofilus Satria Rada Insani : pejuangvscode
 
