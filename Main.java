@@ -38,8 +38,10 @@ public class Main {
     // Placeholder for Person 6
     public static void featureByTeo() {
         System.out.println("Feature by Teo: Tambah-tambahan");
+        
         int num1 = 5;
         int num2 = 7;
+        
         System.out.println("5+7 = " + num1 + num2);
     }
 }
