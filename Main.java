@@ -33,7 +33,7 @@ public class Main {
     // Placeholder for Person 5
     public static void featureByGrace() {
         int u = 1;
-        int v = 2;
+        int v = 3;
         System.out.println("Feature by Person 5: " + (u*v));
     }
 
