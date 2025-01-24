@@ -70,8 +70,5 @@ public class Main {
     }
 
     // buat conflict
-    public static void testConflict() {
-        System.out.println("tambahi disini apa kek");
-    }
 }
 //awikwok
