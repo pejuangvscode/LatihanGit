@@ -12,12 +12,7 @@ public class Main {
 
     // Placeholder for Person 1
     public static void featureByGaby() {
-        System.out.println("Feature by Gaby: [Perkalian]");
-        int num1 = 1;
-        int num2 = 2;
-
-        int hasil = num1 * num2;
-        System.out.println("Hasil" + num1 + " kali " + num2 + " adalah " + hasil);
+        System.out.println("Feature by Person 1: [Add your feature here]");
     }
 
     // Placeholder for Person 2
@@ -37,19 +32,12 @@ public class Main {
 
     // Placeholder for Person 3
     public static void featureByAngga() {
-        System.out.println("Feature by Angga : Perkalian");
-         int num1 = 5;
-        int num2 = 7;
-        
-        System.out.println("5x7 = " + num1 * num2);
-    }
+        System.out.println("Feature by Person 3: [Add your feature here]");
     }   
 
     // Placeholder for Person 4
     public static void featureByJennifer() {
-        int a = 10;
-        int b = 5;
-        System.out.println("Feature by Person 4: " + a + b);
+        System.out.println("Feature by Person 4: [Add your feature here]");
     }
 
     // Placeholder for Person 5
@@ -66,8 +54,4 @@ public class Main {
         
         System.out.println("5+7 = " + num1 + num2);
     }
-
-    // buat conflict
-
 }
-//awikwok
