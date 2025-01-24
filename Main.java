@@ -64,9 +64,9 @@ public class Main {
         System.out.println("Feature by Teo: Tambah-tambahan");
         
         int num1 = 5;
-        int num2 = 7;
+        int num2 = 10;
         
-        System.out.println("5+7 = " + num1 + num2);
+        System.out.println("5+10 = " + num1 + num2);
     }
 
     // buat conflict
