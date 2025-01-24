@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("=== Welcome to the Collaboration Project ===");
@@ -12,7 +14,12 @@ public class Main {
 
     // Placeholder for Person 1
     public static void featureByGaby() {
-        System.out.println("Feature by Person 1: [Add your feature here]");
+        System.out.println("Feature by Gaby: [Perkalian]");
+        int num1 = 1;
+        int num2 = 2;
+
+        int hasil = num1 * num2;
+        System.out.println("Hasil" + num1 + " kali " + num2 + " adalah " + hasil);
     }
 
     // Placeholder for Person 2
@@ -32,12 +39,19 @@ public class Main {
 
     // Placeholder for Person 3
     public static void featureByAngga() {
-        System.out.println("Feature by Person 3: [Add your feature here]");
+        System.out.println("Feature by Angga : Perkalian");
+         int num1 = 5;
+        int num2 = 7;
+        
+        System.out.println("5x7 = " + num1 * num2);
+    }
     }   
 
     // Placeholder for Person 4
     public static void featureByJennifer() {
-        System.out.println("Feature by Person 4: [Add your feature here]");
+        int a = 10;
+        int b = 5;
+        System.out.println("Feature by Person 4: " + a + b);
     }
 
     // Placeholder for Person 5
@@ -53,5 +67,19 @@ public class Main {
         int num2 = 7;
         
         System.out.println("5+7 = " + num1 + num2);
+    }
+
+    // buat conflict
+    public static void testConflict() {
+        int a = 5;
+        int b = 6
+        System.out.println("conflict" + (b-a));
+    }
+}
+    // buat conflict
+    public static void testConflict() {
+        int a = 6;
+        int b = 5;
+        System.out.println("conflict testing" + (a-b));
     }
 }
