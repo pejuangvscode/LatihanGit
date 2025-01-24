@@ -68,5 +68,10 @@ public class Main {
         
         System.out.println("5+7 = " + num1 + num2);
     }
+
+    // buat conflict
+    public static void testConflict() {
+        System.out.println("tambahi disini apa kek");
+    }
 }
 //awikwok
