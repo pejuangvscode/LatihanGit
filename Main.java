@@ -70,8 +70,6 @@ public class Main {
     }
 
     // buat conflict
-    public static void testConflict() {
-        System.out.println("conflict testing");
-    }
+
 }
 //awikwok
