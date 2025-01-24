@@ -41,9 +41,9 @@ public class Main {
     public static void featureByAngga() {
         System.out.println("Feature by Angga : Perkalian");
          int num1 = 5;
-        int num2 = 7;
+        int num2 = 10;
         
-        System.out.println("5x7 = " + num1 * num2);
+        System.out.println("5x10 = " + num1 * num2);
     }
     }   
 
