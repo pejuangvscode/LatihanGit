@@ -41,9 +41,9 @@ public class Main {
     public static void featureByAngga() {
         System.out.println("Feature by Angga : Perkalian");
          int num1 = 5;
-        int num2 = 7;
+        int num2 = 10;
         
-        System.out.println("5x7 = " + num1 * num2);
+        System.out.println("5x10 = " + num1 * num2);
     }
     }   
 
@@ -56,7 +56,7 @@ public class Main {
 
     // Placeholder for Person 5
     public static void featureByGrace() {
-        System.out.println("Feature by Person 5: [Add your feature here]");
+        System.out.println("Feature by Person 5: " + (5*5);
     }
 
     // Placeholder for Person 6
@@ -64,9 +64,9 @@ public class Main {
         System.out.println("Feature by Teo: Tambah-tambahan");
         
         int num1 = 5;
-        int num2 = 7;
+        int num2 = 10;
         
-        System.out.println("5+7 = " + num1 + num2);
+        System.out.println("5+10 = " + num1 + num2);
     }
 
     // buat conflict
