@@ -71,7 +71,9 @@ public class Main {
 
     // buat conflict
     public static void testConflict() {
-        System.out.println("conflict testing");
+        int a = 6;
+        int b = 5;
+        System.out.println("conflict testing" + (a-b));
     }
 }
 //awikwok
